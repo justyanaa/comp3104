@@ -1,4 +1,4 @@
 #### DevOps – Developer Operations
 
-- Iana 
-- Bosenko
+- Pritesh 
+- Patel
